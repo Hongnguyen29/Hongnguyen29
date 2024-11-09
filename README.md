@@ -1,7 +1,7 @@
 👋 안녕하세요 ~
+📨 email : Hongnguyen1311@gmail.com
 
-저는 이전에 제어 공학을 전공했으며 현재는 백엔드 개발로 전향했습니다.2024년 6월 17일부터 2024년 11월 18일까지 Likelion(KTECH)에서 800시간에 걸친 Java와 Spring Boot를 이용한 백엔드 프로그래밍 과정을 완료했습니다. 이 과정을 통해 저는 완성된 웹사이트를 만들 수 있게 되었습니다.
-
+2024년 6월 17일부터 2024년 11월 18일까지 Likelion(KTECH)에서 800시간에 걸친 Java와 Spring Boot를 이용한 백엔드 프로그래밍 과정을 완료했습니다.
 # 💻Skills
 
 ## 🔨 Programming Languages
