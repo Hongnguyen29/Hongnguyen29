@@ -1,7 +1,8 @@
 👋 안녕하세요 ~
 📨 email : Hongnguyen1311@gmail.com
 
-2024년 6월 17일부터 2024년 11월 18일까지 Likelion(KTECH)에서 800시간에 걸친 Java와 Spring Boot를 이용한 백엔드 프로그래밍 과정을 완료했습니다.
+2024년 6월 17일부터 2024년 11월 18일까지 Likelion(KTECH)에서 Java와 Spring Boot를 이용한 백엔드 프로그래밍 과정에 800시간 참여했습니다  
+
 # 💻Skills
 
 ## 🔨 Programming Languages
